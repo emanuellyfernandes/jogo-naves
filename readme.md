@@ -15,4 +15,4 @@
 - JavaScript
 - jQuery
 
-https://jogo-naves-6iw4300sa-emanuellyfernandes.vercel.app/
+<h3><a href="https://jogo-naves-6iw4300sa-emanuellyfernandes.vercel.app/">Link para jogar</a></h3>
